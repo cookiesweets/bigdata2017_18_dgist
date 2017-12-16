@@ -11,7 +11,7 @@ If you download the file in Mac, the file name may be ``BUS_STATION_BOARDING_MON
 If so, please delete ``.exe`` before run the jupyter notebook file.
 
 # About files in this git
-``Team18_analysis.ipynb``: The essential jupyter notebook file. Every analysis placed in this file.
+``Team18_analysis.ipynb``: The essential jupyter notebook file. Every analysis placed in this file. The report of our team also is included in this file.
 
 ``HomeRegion.csv``: File of bus stop data within 350m from home region subway stations.
 
