@@ -19,4 +19,4 @@ If so, please delete ``.exe`` before run the jupyter notebook file.
 
 ``BuslineStops.csv``: File of busline data that passes by at least one bus stop in home region and transfer region.
 
-``BUS_STATION_BOARDING_MONTH_201708.csv``: **This file is not in this repository. Please download this file from the link above.** 
+``BUS_STATION_BOARDING_MONTH_201708.csv``: Statistical file of the number of people who board or get off by each bus of Seoul in August, 2017. **This file is not included in this repository. Please download this file from the link above.** 
